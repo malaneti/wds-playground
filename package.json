@@ -22,7 +22,7 @@
     "js-cookie": "^2.2.0",
     "md5-file": "^4.0.0",
     "morgan": "^1.9.1",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "query-string": "^6.4.2",
     "react": "^16.8.6",
     "react-app-polyfill": "^1.0.1",
